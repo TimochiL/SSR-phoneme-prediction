@@ -23,4 +23,3 @@ Ensure that you have installed [Python 3](https://www.python.org/downloads/) and
 1. Create a virtual environment ([venv](https://docs.python.org/3/library/venv.html), [virtualenv](https://virtualenv.pypa.io/en/latest/), etc.).
 2. Activate your virtual environment.
 3. Install the necessary dependencies: `pip3 install -r requirements.txt`.
-4. Install [PyTorch](https://pytorch.org/get-started/locally/) on your local machine. Note, this process is different based on OS and hardware
